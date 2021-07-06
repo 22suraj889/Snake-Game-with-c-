@@ -1,1 +1,2 @@
-# Snake-Game-with-c-
+# Snake-Game-with-c++
+This is the snake game in c++
